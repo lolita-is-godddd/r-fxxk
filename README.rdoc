@@ -2,7 +2,7 @@
 
 A Brainfuck implementation, and generator for your own Brainfuck-like interpreter.
 
-== Example of Ook! (http://ja.wikipedia.org/wiki/Ook!)
+== Example of Ook! (http://ja.wikipedia.org/wiki/Ook%21)
  class Ook < Brainfuck
   nxt 'Ook. Ook?'
   prv 'Ook? Ook.'
